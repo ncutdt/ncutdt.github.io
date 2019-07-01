@@ -1,0 +1,186 @@
+# Faculty
+# Alphabetical order
+
+Boss:
+    display_name: "Tao Du"
+    role: faculty
+    image: /img/people/dt.jpeg
+    webpage: http://baidu.com 
+    bio: "Asistant Professor"
+
+
+# researcher
+
+Test:
+    display_name: "Lenna"
+    role: postdoc
+    image: /img/people/Lenna.png
+    webpage: http://baidu.com
+
+# lxiaomeng:
+#     display_name: "Xiaomeng Li"
+#     role: postdoc
+#     image: /img/people/lixiaomeng_sq.png
+#     webpage: https://bnusss.github.io/person/li-xiao-meng.html
+
+# Postdocs
+# Alphabetical order
+#shaolin:
+#    display_name: "Shaolin Xie"
+#    role: postdoc
+#    webpage: "http://www.shawnless.net/Shawn/"
+#    image: /img/people/shaolin.jpg
+#    bio: "Program Director"
+
+
+# Staff
+# Alphabetical order
+
+# wshuo:
+#     display_name: "Shuo Wang"
+#     role: staff
+#     image: /img/people/wangshuo.jpg
+#     webpage: https://bnusss.github.io/person/wang-shuo.html
+
+# lyiling:
+#     display_name: "Yiling Lin"
+#     role: staff
+#     image: /img/people/linyiling.png
+#     webpage: https://yilinglin010.github.io/joyful-world/
+# truyi:
+#     display_name: "Ruyi Tao"
+#     role: staff
+#     image: /img/people/taoruyi.png
+#     # webpage: 
+# zyi:
+#     display_name: "Yi Zhao"
+#     role: staff
+#     image: /img/people/zhaoyi.jpeg
+#     webpage: https://bnusss.github.io/person/zhao-yi.html
+# hqiao:
+#     display_name: "Qiao Hu"
+#     role: staff
+#     image: /img/people/huqiao.png
+#     webpage: https://bnusss.github.io/person/hu-qiao.html
+# wchaohui:
+#     display_name: "Chaohui Wang"
+#     role: staff
+#     image: /img/people/wangchaohui.png
+#     webpage: https://bnusss.github.io/person/wang-chao-hui.html
+
+
+
+# Grads
+# Alphabetical order
+Edward:
+    display_name: "Edward"
+    role: grad
+    image: /img/people/Edward.jpeg
+    webpage: https://zhangqi131072.github.io/
+
+# gweiwei:
+#     display_name: "Weiwei Gu"
+#     role: grad
+#     image: /img/people/guweiwei.png
+#     webpage: https://bnusss.github.io/person/gu-wei-wei.html
+
+# gli:
+#     display_name: "Li Gong"
+#     role: grad
+#     image: /img/people/gongli.png
+#     webpage: https://bnusss.github.io/person/gong-li.html
+
+# xruyue:
+#     display_name: "Ruyue Xin"
+#     role: grad
+#     image: /img/people/xinruyue.png
+#     webpage: https://bnusss.github.io/person/xin-ru-yue.html
+
+# wlei:
+#     display_name: "Lei Wen"
+#     role: grad
+#     image: /img/people/wenlei.png
+#     webpage: https://bnusss.github.io/person/wen-lei.html
+
+# cmengyuan:
+#     display_name: "Mengyuan Chen"
+#     role: grad
+#     image: /img/people/chenmengyuan_1.png
+#     webpage: https://bnusss.github.io/person/chen-meng-yuan.html
+
+# gfei:
+#     display_name: "Fei Gao"
+#     role: grad
+#     image: /img/people/gaofei.png
+#     webpage: https://bnusss.github.io/person/gao-fei.html
+
+
+# ljing:
+#     display_name: "Jing Liu"
+#     role: grad
+#     image: /img/people/liujing.png
+#     webpage: https://bnusss.github.io/person/liu-jing.html
+
+
+# mmuyun:
+#     display_name: "Muyun Mou"
+#     role: grad
+#     image: /img/people/moumuyun.png
+#     webpage: https://bnusss.github.io/person/mou-mu-yun.html
+
+# zzhang:
+#     display_name: "Zhang Zhang"
+#     role: grid
+#     image: /img/people/zhangzhang.png
+#     webpage: https://3riccc.github.io/#
+
+
+
+# Alums
+# The order is: PhD/postdoc by year; MS by year; BS by year
+
+#wlingfei:
+#    display_name: "Lingfei Wu"
+#    role: "alum"
+#    image: /img/people/wulingfei.png
+#    webpage: "http://parsa.epfl.ch/~jevdjic/"
+#    bio: "Postdoc 2008&ndash;2010. Now at Chicago University."
+#
+#gliangzhu:
+#    display_name: "Liangzhu Guo"
+#    webpage: "https://homes.cs.washington.edu/~bholt/"
+#    role: "alum"
+#    #image: /img/people/bholt.jpg
+#    bio: "Ph.D., 2015. Now at Beijing."
+
+
+# Undergrads
+# Alphabetical order
+
+
+# Undergrad Alums
+# Alphabetical order
+
+#chenfs:
+#    display_name: Chenfan (Frank) Sun
+#    role: ugrad-alum
+#    webpage: https://www.linkedin.com/in/chenfansun
+
+# Collaborators
+# Alphabetical order
+
+#akcheung:
+#    display_name: "Alvin Cheung"
+#    role: collab
+#    webpage: "https://homes.cs.washington.edu/~akcheung/"
+#    bio: "Assistant Professor, UW CSE"
+#    image: /img/people/akcheung.png
+
+# No role (only for retired project photos)
+
+#drkp:
+#    display_name: "Dan Ports"
+#    webpage: "http://drkp.net/"
+#    image: /img/people/drkp.jpg
+#    bio: "Research Assistant Professor"
+
